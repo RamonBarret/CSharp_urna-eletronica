@@ -18,7 +18,7 @@
 
 ### Preview - Layout de voto 🗳
 <p align="center">
-  <img alt="output_escolha" src=".github/escolha_voto.PNG">
+  <img alt="output_escolha" src=".github/escolhavoto.PNG">
 </p>
 
 ### Preview - Empate 🤷🏽‍♂️
