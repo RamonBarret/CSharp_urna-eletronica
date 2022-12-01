@@ -1,0 +1,15 @@
+C:\Users\ramon\meuPrimeirPrograma\bin\Debug\net7.0\meuPrimeirPrograma.exe
+C:\Users\ramon\meuPrimeirPrograma\bin\Debug\net7.0\meuPrimeirPrograma.deps.json
+C:\Users\ramon\meuPrimeirPrograma\bin\Debug\net7.0\meuPrimeirPrograma.runtimeconfig.json
+C:\Users\ramon\meuPrimeirPrograma\bin\Debug\net7.0\meuPrimeirPrograma.dll
+C:\Users\ramon\meuPrimeirPrograma\bin\Debug\net7.0\meuPrimeirPrograma.pdb
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.csproj.AssemblyReference.cache
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.AssemblyInfoInputs.cache
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.AssemblyInfo.cs
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.csproj.CoreCompileInputs.cache
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.dll
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\refint\meuPrimeirPrograma.dll
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.pdb
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\meuPrimeirPrograma.genruntimeconfig.cache
+C:\Users\ramon\meuPrimeirPrograma\obj\Debug\net7.0\ref\meuPrimeirPrograma.dll
