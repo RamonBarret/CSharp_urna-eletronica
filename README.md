@@ -1,8 +1,8 @@
+## Código - Urna Eletrônica 📊
+
 <p align="center">
   <img alt="urna" src=".github/urna.jpg" />
 </p>
-
-## Código - Urna Eletrônica 📊
 
 ### Linguagem de Programação - C# 
 
